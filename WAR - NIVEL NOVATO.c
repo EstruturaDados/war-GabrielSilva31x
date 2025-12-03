@@ -57,8 +57,7 @@
                     system("clear");
 
 // INICIALIZANDO MINHA SWITCH
-    switch (opcao)
-    {
+    switch (opcao) {
         case 1: // CADASTRO DOS TERRITORIOS!
       
           printf("\n\n --- CADASTRO DE TERRITORIOS --- \n\n");
