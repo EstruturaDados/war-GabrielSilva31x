@@ -1,6 +1,6 @@
-// -----------------------------------------------------
-// --- DESAFIO DO TABULEIRO -"WAR" NIVEL AVENTUREIRO ---
-// -----------------------------------------------------
+// -------------------------------------------------------------------------------- //
+// ------------- DESAFIO DO TABULEIRO -"WAR" NIVEL AVENTUREIRO -------------------- //
+// -------------------------------------------------------------------------------- //
 // OBJETIVO -> MODULARIZAÇÃO DO CODIGO PARA UMA MELHOR PERFORMACE:
 //
 // - MODULARIZAR TODO O CODIGO USANDO FUNÇÕES
@@ -10,6 +10,7 @@
 // - CRIAR UM OPÇÃO PARA VERIFICAR AS CONQUISTAS
 // - ATUALIZAR OS TERRITORIOS PARA OS USÚARIOS
 // - LIBERAÇÃO DA MEMORIA ALOCADA -> "BOA PRATICA"
+// ------------------------------------------------------------------------------- //
 
 // AS BIBLIOTECAS DAS FUNÇÕES USADAS NO CODIGO...
 #include <stdio.h>
