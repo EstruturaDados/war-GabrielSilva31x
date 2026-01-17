@@ -1,12 +1,12 @@
-// -------------------------------------------------------------------------------- //
-// -------------- DESAFIO DO TABULEIRO - "WAR" FASE 1 NIVEL NOVATO ---------------- //
-// -------------------------------------------------------------------------------- //
+// -------------------------------------------------------------------------------------- //
+// ---------------- DESAFIO DO TABULEIRO - "WAR" FASE 1 NIVEL NOVATO -------------------- //
+// -------------------------------------------------------------------------------------- //
 // OBJETIVO: CRIAR UM PROGRAMA PARA CADASTRAR TROPAS USANDO:
 // - UMA STRUCT COM AS VARIAVEIS QUE IRAM ARMAZENAR OS DADOS CADASTRADOS
 // - USAR SWITCH COM LOOP DO...WHILE PARA PROPORCIONAR UM MENU INTERATIVO PARA OS USUARIO
 // - USAR LOOP E ESTRUTURAS IF...ELSE PARA EXIBIR OS DADOS CADASTRADOS
 // - LIBERAÇÃO DA MEMORIA ALOCADA AO FINAL -> "BOA PRATICA"
-// -------------------------------------------------------------------------------- //
+// -------------------------------------------------------------------------------------- //
 
 // AS BIBLIOTECAS DAS FUNÇÕES USADAS NO CODIGO...
 #include <stdio.h>
