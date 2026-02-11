@@ -1,10 +1,10 @@
 // ----------------------------------------------------------------------- //
 // ------------ DESAFIO DO TABULEIRO "WAR" - FASE AVENTUREIRO ------------ //
 // ----------------------------------------------------------------------- //
-// OBJETIVO: MODULARIZAR O CODIGO PARA UMA MENHOR EFICIENCIA;
-// - USANDO FUNÇÕES E STRUCT;
-// - USANDO PONTEIROS PARA APONTAR PARA ESSAS FUNÇÕES OU STRUCT;
-// - ALOCAÇÃO DINAMICA;
+// OBJETIVO: MODULARIZAR O CODIGO PARA UMA MENHOR EFICIENCIA
+// - USANDO FUNÇÕES E STRUCT
+// - USANDO PONTEIROS PARA APONTAR PARA ESSAS FUNÇÕES OU STRUCT
+// - ALOCAÇÃO DINAMICA
 // ----------------------------------------------------------------------- //
 
 // AS BIBLIOTECAS DAS FUNÇÕES USADAS NO CODIGO...
